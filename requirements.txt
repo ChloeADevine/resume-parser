@@ -1,0 +1,7 @@
+pandas
+pdfplumber
+python-docx
+openpyxl
+google-genai
+json-repair
+rapidfuzz
